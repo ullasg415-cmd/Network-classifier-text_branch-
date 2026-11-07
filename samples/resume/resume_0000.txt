@@ -1,0 +1,14 @@
+Meera Bhat
+Email: meera@example.com | Phone: +91 8894233809 | Kochi
+Professional summary: motivated data analyst with 9 years of experience in Spark and C++. Seeking a challenging role.
+Work experience
+Data Analyst, Northwind Traders, 2014 - 2016
+Developed and deployed tools using Wireshark, improving accuracy by 26%.
+Developed and deployed tools using React, improving accuracy by 12%.
+Network Engineer, Apex Systems, 2016 - 2017
+Developed and deployed services using Git, improving uptime by 20%.
+Developed and deployed models using TensorFlow, improving throughput by 13%.
+Education
+B.Tech in Computer Science, Jaipur Institute of Technology, 2013, CGPA 8.9
+Skills: SQL, Python, TensorFlow, Docker, Java
+Certifications and projects: references available upon request.

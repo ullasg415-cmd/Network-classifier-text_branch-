@@ -1,0 +1,6 @@
+# Never commit documents. Only the instructions stay in git.
+*
+!.gitignore
+!README.md
+!*/
+!*/README.md

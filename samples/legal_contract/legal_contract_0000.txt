@@ -1,0 +1,11 @@
+SERVICE AGREEMENT. This Agreement is made on 25 October 2025 between Meridian Supplies (the "Company") and Zenith Components (the "Contractor").
+WHEREAS the Company wishes to engage the Contractor to provide services and the Contractor agrees to do so on the terms set out herein.
+References. [1] A. Author et al., Proceedings of the International Conference on Machine Learning. [2] B. Writer, IEEE Transactions on Pattern Analysis.
+1. Either party may terminate this Agreement by giving 30 days written notice to the other party.
+2. No amendment of this Agreement shall be effective unless in writing and signed by both parties. This clause survives termination.
+3. The Company shall pay the Contractor the fees set out in Schedule 1 within thirty days of receipt of a valid invoice.
+4. The Receiving Party shall keep all Confidential Information strictly confidential and shall not disclose it to any third party without prior written consent.
+5. The Contractor warrants that the services shall be performed with reasonable skill and care and that all intellectual property rights vest in the Company.
+6. Any dispute arising out of this Agreement shall be referred to binding arbitration under the Arbitration and Conciliation Act.
+References. [1] A. Author et al., Proceedings of the International Conference on Machine Learning. [2] B. Writer, IEEE Transactions on Pattern Analysis.
+IN WITNESS WHEREOF the parties have executed this Agreement on the date first written above. Signed by the authorised signatories.

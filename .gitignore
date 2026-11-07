@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.secrets/
+
+# Generated files
+.DS_Store
+.coverage
+htmlcov/
+mlruns/
+*.sqlite
+*.sqlite3
+*.db
+
+# IDE
+.vscode/
+.idea/
